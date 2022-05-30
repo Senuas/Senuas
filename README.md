@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/969537784803106827/980963582084808744/original.gif" align="left" height="350" width="450" />  
+<img src="https://cdn.discordapp.com/attachments/969537784803106827/980963582084808744/original.gif" align="left" height="350" width="250" />  
   
 
 | Security@Yuhis
