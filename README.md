@@ -114,7 +114,7 @@
 
 <br/> 
 
-## 🏆GitHub Trophies
+## 🏆Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=cYuhis&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
