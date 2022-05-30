@@ -71,26 +71,9 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+![](https://github-readme-stats.vercel.app/api?username=cYuhis&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cYuhis&theme=ayu-mirage&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cYuhis&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=cYuhis&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cYuhis&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=cYuhis&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
+---
+[![](https://visitcount.itsvg.in/api?id=cYuhis&icon=9&color=1)](https://visitcount.itsvg.in)
