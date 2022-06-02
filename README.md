@@ -7,7 +7,7 @@
     Name   -   Yuhis
       OS   -   Ubuntu
 Terminal   -   Bash
-    Team   -   Lapsus$ 2021/2022 | Recursion Team 2015/2021
+    Team   -   Lapsus$ 2021/2022 | Recursion Team 2015/2022
  Discord   -   Yühis#4373
 ```
 
