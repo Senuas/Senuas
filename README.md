@@ -1,5 +1,5 @@
 >
-><img align="left" src="https://tenor.com/view/smoking-anime-gif-20438836" />
+><img align="left" src="[https://cdn.discordapp.com/attachments/969537784803106827/981945066727809094/smoking-anime.gif" />
 >     
 ```bat
        Constantine
