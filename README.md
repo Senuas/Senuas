@@ -3,7 +3,7 @@
 >     
 ```bat
        Constantine
-        --------
+        ---------
     Name   -   Yuhis
       OS   -   Ubuntu
 Terminal   -   Bash
