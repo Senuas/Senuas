@@ -1,11 +1,18 @@
 <img src="https://cdn.discordapp.com/attachments/969537784803106827/980963582084808744/original.gif" align="left" height="250" width="450" />  
 ```bat  
+
 >| Security@Yuhis
+
 >| Bash
+
 >| Constantine
+
 >| OpenBox
+
 >| Lubuntu
+
 >| Pays-Bas
+
 ```
 
 
