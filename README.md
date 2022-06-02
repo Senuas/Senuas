@@ -14,17 +14,8 @@
 
 
 <br/> 
-
 ## 🏆Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=cYuhis&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
-
-
-
-
-
-
 
 ### Skill's & Tool's :  
 <div align="center">  
@@ -36,8 +27,6 @@
 </div>  
 
 <br/>  
-
-
 ## Github Stats  
 ![](https://github-readme-stats.vercel.app/api?username=cYuhis&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cYuhis&theme=ayu-mirage&hide_border=true)<br/>
