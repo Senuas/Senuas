@@ -4,10 +4,10 @@
 ```bat
        Constantine
         --------
-    Name   -   Yuhis | Purge
+    Name   -   Yuhis
       OS   -   Ubuntu
 Terminal   -   Bash
-    Team   -   Lapsus$ | Recursion Team
+    Team   -   Lapsus$ 2021/2022 | Recursion Team 2015/2021
  Discord   -   Yühis#4373
 ```
 
