@@ -1,5 +1,5 @@
 >
-><img align="left" src="[https://cdn.discordapp.com/attachments/969537784803106827/981945066727809094/smoking-anime.gif" />
+><img align="left" src="https://cdn.discordapp.com/attachments/969537784803106827/981945066727809094/smoking-anime.gif" />
 >     
 ```bat
        Constantine
