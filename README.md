@@ -1,8 +1,9 @@
-
+<img align="left" src="ttps://cdn.discordapp.com/attachments/969537784803106827/980963582084808744/original.gif"
+     
 ```bat
-      Constantine
+       Constantine
         --------
-    Name   -   Yuhis
+    Name   -   Yuhis | Purge
       OS   -   Ubuntu
 Terminal   -   Bash
     Team   -   Lapsus$ | Recursion Team
