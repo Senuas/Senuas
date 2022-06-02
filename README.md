@@ -14,6 +14,8 @@
 
 
 <br/> 
+
+
 ## 🏆Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cYuhis&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
@@ -26,7 +28,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 </div>  
 
-<br/>  
+<br/> 
+
+
 ## Github Stats  
 ![](https://github-readme-stats.vercel.app/api?username=cYuhis&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cYuhis&theme=ayu-mirage&hide_border=true)<br/>
