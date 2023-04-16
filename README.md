@@ -4,7 +4,7 @@
 ```bat
        Constantine
         ---------
-    Name   -   Yuhis
+    Name   -   Ever
       OS   -   Windows 
 Terminal   -   WSL
     Team   -   Recursion Team 2015/2022
