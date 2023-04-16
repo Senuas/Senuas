@@ -1,5 +1,5 @@
 >
-><img align="left" src="https://cdn.discordapp.com/attachments/969537784803106827/981946526043602975/115569.gif" />
+><img align="left" src="[https://cdn.discordapp.com/attachments/969537784803106827/1097176246212907069/0302872e5abcaf399f1440b3f2fd11f9.gif]" />
 >     
 ```bat
        Constantine
