@@ -1,17 +1,8 @@
-<img src="https://raw.githubusercontent.com/Senuas/Senuas/output/snake.svg" alt="Snake animation" />
+# <p align="center">Infinity Recursion
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
+![Image](https://i.postimg.cc/FsdYcZmT/56020459-10669711-The-website-of-defunct-hacker-gang-Recursion-Team-also-known-as-m-7-1648671593311.png)
+        <p>
 
-###
+[Article](https://www.dailymail.co.uk/news/article-10669711/Child-hackers-tricked-Apple-Meta-handing-subscriber-data.html) |
+[Everlynn](https://guns.lol/everlynn)
