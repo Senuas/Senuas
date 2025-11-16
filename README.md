@@ -6,3 +6,4 @@
 
 [Article](https://www.dailymail.co.uk/news/article-10669711/Child-hackers-tricked-Apple-Meta-handing-subscriber-data.html) |
 [7mpx](https://7mpx.fr)
+![](https://komarev.com/ghpvc/?username=Senuas&base=1000)
